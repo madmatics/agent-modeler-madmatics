@@ -1,3 +1,5 @@
+# Local package
+-e ./madmatics_mmm
 
 Deprecated==1.2.18
 Flask==3.1.1
